@@ -1,0 +1,16 @@
+C:\Users\ben\source\repos\ConsoleApp4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ben\source\repos\ConsoleApp4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ben\source\repos\ConsoleApp4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\ConsoleApp4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ben\source\repos\ConsoleApp4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ben\source\repos\ConsoleApp4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ben\source\repos\ConsoleApp4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ben\source\repos\ConsoleApp4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ben\source\repos\ConsoleApp4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\ben\source\repos\ConsoleApp4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ben\source\repos\ConsoleApp4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.signup.resources
+C:\Users\ben\source\repos\ConsoleApp4\WindowsFormsApp1\bin\Debug\ConsoleApp4.exe
+C:\Users\ben\source\repos\ConsoleApp4\WindowsFormsApp1\bin\Debug\ConsoleApp4.pdb
+C:\Users\ben\source\repos\ConsoleApp4\WindowsFormsApp1\bin\Debug\ConsoleApp4.exe.config
+C:\Users\ben\source\repos\ConsoleApp4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\ben\source\repos\ConsoleApp4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.log_in.resources

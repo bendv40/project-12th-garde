@@ -1,0 +1,177 @@
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\WebApplication2.dll
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\WebApplication2.pdb
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\csc.exe
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\csc.exe.config
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\csc.rsp
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\csi.exe
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\csi.exe.config
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\csi.rsp
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\System.AppContext.dll
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\System.Console.dll
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\System.IO.Compression.dll
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\System.Security.Claims.dll
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\System.ValueTuple.dll
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\vbc.exe.config
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\vbc.rsp
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\ConsoleApp4.exe
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\ConsoleApp4.pdb
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\ConsoleApp4.exe.config
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\ben\source\repos\ConsoleApp4\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\WebApplication2.dll
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\WebApplication2.pdb
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\csc.exe
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\csc.exe.config
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\csc.rsp
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\csi.exe
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\csi.exe.config
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\csi.rsp
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.AppContext.dll
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.Console.dll
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.IO.Compression.dll
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.Security.Claims.dll
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.ValueTuple.dll
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\vbc.exe.config
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\vbc.rsp
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\ConsoleApp4.exe
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\ConsoleApp4.pdb
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\ConsoleApp4.exe.config
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\ben\Desktop\פרויקט גמר\ConsoleApp4\WebApplication2\obj\Debug\WebApplication2.pdb
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\WebApplication2.dll.config
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\WebApplication2.dll
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\WebApplication2.pdb
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\csc.exe
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\csc.exe.config
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\csc.rsp
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\csi.exe
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\csi.exe.config
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\csi.rsp
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.AppContext.dll
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.Console.dll
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.IO.Compression.dll
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.Security.Claims.dll
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.ValueTuple.dll
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\vbc.exe
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\vbc.exe.config
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\vbc.rsp
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\VBCSCompiler.exe
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\ConsoleApp4.exe
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\ConsoleApp4.pdb
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\ConsoleApp4.exe.config
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\obj\Debug\WebApplication2.dll
+D:\פרויקט גמר\ConsoleApp4\WebApplication2\obj\Debug\WebApplication2.pdb
